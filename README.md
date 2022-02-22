@@ -8,7 +8,7 @@ If you like this repo. and this helped you then STAR this repo.
 Discord: brodydoesart#5782
 
 # COPYRIGHT (c)
-Copyright (c) 2020 DoesArt Studios
+Copyright (c) 2022 DoesArt Studios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
